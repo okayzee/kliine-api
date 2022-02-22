@@ -207,4 +207,4 @@ Route to create a plan
 - forgot password - **`/api/forgot-password`**
 - check if admin for admin routes **(admin middleware)**
 - check if admin middleware to delete user **(adminCheck middleware)**
-- update user information - **Update any available fields**
+- update user information - **Update any available fields***
